@@ -1,0 +1,975 @@
+{
+    "total": 14,
+    "success": true,
+    "data": [
+        {
+            "email": "",
+            "addressId": "9253567285422",
+            "image": "/medias/sys_master/hc7/hc4/9915970420766.jpg",
+            "line1": "東區忠孝路668號 (嘉義店)",
+            "latitude": "23.5015644",
+            "formattedDistance": "56.4 公里",
+            "displayName": "嘉義店",
+            "availableServices": [
+                {
+                    "phone": "(05) 320-0733",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse007",
+            "name": "Chiayi",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "600",
+            "town": "嘉義市",
+            "url": "/store/Chiayi?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "120.4502346",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9253567350958",
+            "image": "/medias/sys_master/hbd/hf3/9915972648990.jpg",
+            "line1": "南屯區文心南三路289號(台中店)",
+            "latitude": "24.133164",
+            "formattedDistance": "57.7 公里",
+            "displayName": "台中店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "(04) 3703-1096",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "  <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse870",
+            "name": "Taichung",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "408",
+            "town": "臺中市",
+            "url": "/store/Taichung?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "120.649747",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9494839019694",
+            "image": "/medias/sys_master/banners/h13/h8d/46464050954270.jpg",
+            "line1": "北屯區敦富路366號(北台中店)",
+            "latitude": "24.191353",
+            "formattedDistance": "60.5 公里",
+            "displayName": "北台中店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "04-37063166",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "<p> 449-9909 (手機撥打請加02)</p>",
+                    "openingHours": "<p>加油站營業時間:<br />星期一~星期天上午 07:00 - 下午 11:00</p>",
+                    "code": "GAS_STATION"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "  <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse018",
+            "name": "North_Taichung",
+            "phone": "449-9909(手機撥打請加02)",
+            "line2": "",
+            "postalCode": "406",
+            "town": "臺中市",
+            "url": "/store/North_Taichung?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "120.706883",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9253567416494",
+            "image": "/medias/sys_master/h82/hdf/9915973500958.jpg",
+            "line1": "北區和緯路四段8號 (台南店)",
+            "latitude": "23.0099817",
+            "formattedDistance": "109.3 公里",
+            "displayName": "台南店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "(06) 700-8685",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse008",
+            "name": "Tainan",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "704",
+            "town": "臺南市",
+            "url": "/store/Tainan?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "120.193573",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9253567318190",
+            "image": "/medias/sys_master/h74/he0/9915971731486.jpg",
+            "line1": "東區慈雲路188號 (新竹店)",
+            "latitude": "24.793209",
+            "formattedDistance": "121.4 公里",
+            "displayName": "新竹店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "(03) 623-5595",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse001",
+            "name": "Hsinchu",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "300",
+            "town": "新竹市",
+            "url": "/store/Hsinchu?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.013193",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9253567252654",
+            "image": "/medias/sys_master/h6b/hee/9915970879518.jpg",
+            "line1": "鼓山區大順一路111號 (大順店)",
+            "latitude": "22.6566236",
+            "formattedDistance": "133.3 公里",
+            "displayName": "北高雄(大順店)",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "(07)975-8879",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse002",
+            "name": "Dashun",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "804",
+            "town": "高雄市",
+            "url": "/store/Dashun?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "120.30707",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9253567187118",
+            "image": "/medias/sys_master/h1a/hf6/9915971797022.jpg",
+            "line1": "前鎮區中華五路656號 (高雄店)",
+            "latitude": "22.603568",
+            "formattedDistance": "138.5 公里",
+            "displayName": "高雄店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "(07)970-0689",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse873",
+            "name": " Kaohsiung",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "806",
+            "town": "高雄市",
+            "url": "/store/ Kaohsiung?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "120.3063018",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "8796093139118",
+            "image": "/medias/sys_master/hdd/h7f/9915970748446.jpg",
+            "line1": "中壢區民族路六段508號 (中壢店)",
+            "latitude": "24.9636189",
+            "formattedDistance": "141.6 公里",
+            "displayName": "桃園中壢店",
+            "availableServices": [
+                {
+                    "phone": "(03) 271-2633",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "  <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "<p> 449-9909 (手機撥打請加02)</p>",
+                    "openingHours": "<p>加油站營業時間:<br />星期一~星期天上午 07:00 - 下午 11:00</p>",
+                    "code": "GAS_STATION"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse010",
+            "name": "Chungli",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "320",
+            "town": "桃園市",
+            "url": "/store/Chungli?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.1558083",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "8796093270190",
+            "image": "/medias/sys_master/banners/hb4/h71/103339194843166.jpg",
+            "line1": "蘆竹區南崁路一段369號 (南崁店)",
+            "latitude": "25.0546991",
+            "formattedDistance": "153.8 公里",
+            "displayName": "桃園南崁店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "(03) 272-1143",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse003",
+            "name": "Taoyuan",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "338",
+            "town": "桃園市",
+            "url": "/store/Taoyuan?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.2822328",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "8796093106350",
+            "image": "/medias/sys_master/hf7/h60/9915970682910.jpg",
+            "line1": "中和區中山路2段 347號 (中和店)",
+            "latitude": "25.00248",
+            "formattedDistance": "154.3 公里",
+            "displayName": "中和店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "(02) 7731-2282",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse886",
+            "name": "Chungho",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "235",
+            "town": "新北市",
+            "url": "/store/Chungho?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.492219",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9253567383726",
+            "image": "/medias/sys_master/h0f/hbd/9915972321310.jpg",
+            "line1": "新莊區建國一路138號 (新莊店)",
+            "latitude": "25.0272325",
+            "formattedDistance": "154.9 公里",
+            "displayName": "新莊店",
+            "availableServices": [
+                {
+                    "phone": "(02) 7715-9367",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "<p> 449-9909 (手機撥打請加02)</p>",
+                    "openingHours": "<p>加油站營業時間:<br />星期一~星期天上午 07:00 - 下午 11:00</p>",
+                    "code": "GAS_STATION"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse011",
+            "name": "Xinzhuang",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "242",
+            "town": "新北市",
+            "url": "/store/Xinzhuang?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.4347102",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "8796093204654",
+            "image": "/medias/sys_master/banners/hb4/h71/103339194843166.jpg",
+            "line1": "內湖區舊宗路一段268號 (內湖店)",
+            "latitude": "25.0656846",
+            "formattedDistance": "163.9 公里",
+            "displayName": "內湖店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "(02) 8792-1465",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>光學部營業時間:<br />星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse872",
+            "name": "Neihu",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "114",
+            "town": "臺北市",
+            "url": "/store/Neihu?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.5772215",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "8796093073582",
+            "image": "/medias/sys_master/h31/hff/9915972124702.jpg",
+            "line1": "汐止區大同路一段158號 (汐止店)",
+            "latitude": "25.0575412",
+            "formattedDistance": "165.4 公里",
+            "displayName": "汐止店",
+            "availableServices": [
+                {
+                    "phone": "(02) 7708-6954",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "  <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse874",
+            "name": "Shihchih",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "221",
+            "town": "新北市",
+            "url": "/store/Shihchih?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.6341423",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        },
+        {
+            "email": "",
+            "addressId": "9253567219886",
+            "image": "/medias/sys_master/h27/hbf/9915970355230.jpg",
+            "line1": "北投區立德路117號 (北投店)",
+            "latitude": "25.1275267",
+            "formattedDistance": "166.6 公里",
+            "displayName": "北投店",
+            "availableServices": [
+                {
+                    "phone": "",
+                    "openingHours": " <p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "PHARMACY"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "",
+                    "code": "HEARING_AIDS"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "OPTICAL"
+                },
+                {
+                    "phone": "",
+                    "openingHours": "<p>星期一~星期天上午 10:00 - 下午 09:30</p>",
+                    "code": "FOOD_COURT"
+                },
+                {
+                    "phone": "(02) 7715-9423",
+                    "openingHours": "",
+                    "code": "TIRE_CENTER"
+                }
+            ],
+            "warehouseCode": "costcoTaiwanWarehouse009",
+            "name": "Beitou",
+            "phone": "449-9909 (手機撥打請加02)",
+            "line2": "",
+            "postalCode": "112",
+            "town": "臺北市",
+            "url": "/store/Beitou?lat=23.69781&long=120.960515&q=臺灣",
+            "longitude": "121.4698778",
+            "openings": {
+                "星期三": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期日": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期五": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期四": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期一": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期二": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                },
+                "星期六": {
+                    "individual": "上午 10:00 - 下午 9:30"
+                }
+            },
+            "storeContent": ""
+        }
+    ],
+    "message": "",
+    "pagePrefixTireSearch": ""
+}
