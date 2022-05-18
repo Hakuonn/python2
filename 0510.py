@@ -1,4 +1,3 @@
-'''
 class Person:
     def __init__(self , name , age ,hight , weight):
         self.name = name
@@ -20,9 +19,7 @@ for i in result:
     kk = Person(name , int(age) , int(hight) , int(weight))
     group.append(kk)
 f.close()
-'''
 
-'''
 class Transaction:
         def __init__(self , a , b , c , d , e):
             self.a = a
@@ -47,7 +44,6 @@ for i in result:
     kkbox = Transaction(通報日,法定傳染病通報,居家檢疫送驗,擴大監測送驗,Total) 
     recode.append(kkbox)
 covid.close()
-'''
 
 class header:
     def __init__(self,Riverside_Park,Location,Latitude,Longitude,Type):
