@@ -11,3 +11,7 @@ if response.status_code == 200:
     aa1 = json.dumps(tmp,indent=4, ensure_ascii=False).encode('utf-8')
     f.write(aa1)
     f.close()
+
+
+    # 網路上擷取資料 loads dumps
+    # 電腦裡擷取資料 load  dump
