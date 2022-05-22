@@ -23,3 +23,25 @@ csvUbike = open('Ubike.csv' , 'w' , encoding='utf-8')
 csvUbike.write(tmpHeader)
 csvUbike.write(tmpValue)
 csvUbike.close()
+
+# csotco
+f = open('D:\python\程設2\costco.json', 'r' , encoding='utf-8')
+data = json.load(f)
+f.close()
+co = data['data']
+totalKey = [key for key,value in co[0].items()]
+totalValue = []
+for i in co:
+    tmpValue = [value for key,value in i.items()]
+    totalValue.append(tmpValue)
+Header = ','.join(totalKey)
+value = ''
+for i in totalValue:
+    tmp = ','.join(str(j) for j in i) + '\n'
+    value += tmp
+print(value)
+
+testcsv = open('costco.csv' , 'w' ,encoding='utf-8')
+testcsv.write(Header)
+testcsv.write(value)
+testcsv.close()

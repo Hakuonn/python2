@@ -39,7 +39,7 @@ for i in totalValue2:
     tmpValue = tmpValue + tmp
 print(tmpValue)
 
-kk = open('my_test.csv' , 'w' , encoding='utf-8')
+kk = open('costco.csv' , 'w' , encoding='utf-8')
 kk.write(tmpHeader)
 kk.write(tmpValue)
 kk.close()
