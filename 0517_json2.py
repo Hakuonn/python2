@@ -6,10 +6,12 @@ ubike = data['retVal']
 
 totalKey = [key for key,value in ubike[0].items()]
 
-totalValue = []
-for i in ubike:
-    tmpValue = [value for key,value in i.items()]
-    totalValue.append(tmpValue)
+# totalValue = []
+# for i in ubike:
+#     tmpValue = [value for key,value in i.items()]
+#     totalValue.append(tmpValue)
+# 以下為更簡潔
+totalValue = [[value for key,value in i.items()]for i in ubike]
 
 # json -> csv
 tmpHeader = ','.join(totalKey)
@@ -30,10 +32,9 @@ data = json.load(f)
 f.close()
 co = data['data']
 totalKey = [key for key,value in co[0].items()]
-totalValue = []
-for i in co:
-    tmpValue = [value for key,value in i.items()]
-    totalValue.append(tmpValue)
+
+totalValue = [[value for key,value in i.items()]for i in co]
+
 Header = ','.join(totalKey)
 value = ''
 for i in totalValue:
