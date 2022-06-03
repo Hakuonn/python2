@@ -77,7 +77,7 @@ print(df2['area_code'].value_counts())
 df3 = df2[df2['area_code'] == '08']
 print(df3.shape)
 
-# 加法方式
+# 加法方式(推薦)
 df2 = df[['area_code', 'district_tw', 'parking_spaces', 'name_tw']]
 print(df2)
 print(df2.shape)
