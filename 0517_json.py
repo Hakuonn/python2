@@ -1,8 +1,10 @@
 import json
+#load：string -> jsonObject
+#dump：jsonObject -> str
 
 
 f = open('costco.json', 'r', encoding='utf-8')
-data = json.load(f)
+data = json.load(f) # str -> json Object
 f.close()
 display = data['data']
 
