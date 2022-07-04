@@ -89,7 +89,7 @@ print(df2['area_code'].value_counts())
 
 tptmp = df2[df2['area_code'] == '00']
 print(tptmp)
-print(tptmp.groupby('district_tw').count())  # groupby -> 值相同把它算再一起
+print(tptmp.groupby('district_tw').count())  # groupby -> 值相同把它算在一起
 
 result = tptmp.groupby('district_tw').count()['name_tw']
 print(result.sort_values())

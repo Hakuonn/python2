@@ -8,7 +8,7 @@ conn = pymysql.connect(host='140.127.149.184' , port=3306 , user='ic' ,passwd='i
 #cursor = conn.cursor() #建立游標(下命令)的通道
 cursor = conn.cursor(pymysql.cursors.DictCursor) #建立游標通道並將傳回結果轉成dict
 # cursor.execute("CREATE TABLE `ic`.`C110156217` ( `name` VARCHAR(10) NOT NULL) ENGINE = InnoDB CHARSET=utf8mb4 COLLATE utf8mb4_general_ci;") #新增資料表
-cursor.execute("INSERT INTO `ic`.`C110156217` (`name` , `id`) VALUES ('handsome' , 'c110156187');") #新增一筆紀錄
+#cursor.execute("INSERT INTO `ic`.`C110156217` (`name` , `id`) VALUES ('handsome' , 'c110156187');") #新增一筆紀錄
 # cursor.execute("DROP TABLE C110156217;") #刪除資料表
 #查詢資料表
 cursor.execute("SELECT * FROM `C110156217`;") #選擇資料表
